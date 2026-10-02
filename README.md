@@ -1404,9 +1404,7 @@ The architecture is therefore suitable as a **Cloud Computing course project, ac
 
 **Your Name**
 
-Cloud Computing Project
-
-GitHub: `https://github.com/YOUR_USERNAME`
+Abhishek Basu — Embedded Systems Student GitHub: [DevAbhay2003](https://github.com/DevAbhay2003?tab=repositories) · LinkedIn: [Abhishek Basu](https://www.linkedin.com/in/abhishek-basu-68b1b1342/)
 
 ---
 
